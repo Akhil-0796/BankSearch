@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BankSearch/static/css/main.4bdb7e90.chunk.css",
+    "main.js": "/BankSearch/static/js/main.c0cc9bb6.chunk.js",
+    "main.js.map": "/BankSearch/static/js/main.c0cc9bb6.chunk.js.map",
+    "runtime-main.js": "/BankSearch/static/js/runtime-main.5e258596.js",
+    "runtime-main.js.map": "/BankSearch/static/js/runtime-main.5e258596.js.map",
+    "static/js/2.b6e2ebf6.chunk.js": "/BankSearch/static/js/2.b6e2ebf6.chunk.js",
+    "static/js/2.b6e2ebf6.chunk.js.map": "/BankSearch/static/js/2.b6e2ebf6.chunk.js.map",
+    "static/js/3.547e6695.chunk.js": "/BankSearch/static/js/3.547e6695.chunk.js",
+    "static/js/3.547e6695.chunk.js.map": "/BankSearch/static/js/3.547e6695.chunk.js.map",
+    "index.html": "/BankSearch/index.html",
+    "static/css/main.4bdb7e90.chunk.css.map": "/BankSearch/static/css/main.4bdb7e90.chunk.css.map",
+    "static/js/2.b6e2ebf6.chunk.js.LICENSE.txt": "/BankSearch/static/js/2.b6e2ebf6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e258596.js",
+    "static/js/2.b6e2ebf6.chunk.js",
+    "static/css/main.4bdb7e90.chunk.css",
+    "static/js/main.c0cc9bb6.chunk.js"
+  ]
+}
